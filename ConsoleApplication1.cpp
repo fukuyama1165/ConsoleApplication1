@@ -7,6 +7,8 @@ int main()
 {
     std::cout << "Hello VisualStudio Get!\n";
     
+    std::cout << "ローカルではない変更\n";
+    
     std::cout << "新規ブランチでこの行が追加されるはず\n";
 }
 
