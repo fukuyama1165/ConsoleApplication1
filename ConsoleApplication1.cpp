@@ -6,6 +6,8 @@
 int main()
 {
     std::cout << "Hello VisualStudio Get!\n";
+    
+    std::cout << "新規ブランチでこの行が追加されるはず\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
