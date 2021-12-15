@@ -7,8 +7,7 @@ int main()
 {
     std::cout << "Hello VisualStudio Get!\n";
     
-    std::cout << "ローカルで変更した部分\n";
-    
+    std::cout << "コンフリクトS\n";
     std::cout << "新規ブランチでこの行が追加されるはず\n";
 }
 
