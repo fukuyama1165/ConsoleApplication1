@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello VisualStudio Get!\n";
     
-    std::cout << "リモートで変更した\n";
+    std::cout << "ローカルで変更した\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
