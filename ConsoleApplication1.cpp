@@ -7,8 +7,7 @@ int main()
 {
     std::cout << "Hello VisualStudio Get!\n";
     
-    std::cout << "コンフリクトS\n";
-    std::cout << "新規ブランチでこの行が追加されるはず\n";
+    std::cout << "ローカル変更下よ\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
